@@ -16,7 +16,7 @@ Where We can add new blogs  .
 
 ### Project Link
 
-* [note-app-lakshyadeep.netlify.app]()
+* [lCoder-Blog.github.io](https://lakshyadeepgogoi.github.io/lCoder-Blog.github.io/)
 
 
 
